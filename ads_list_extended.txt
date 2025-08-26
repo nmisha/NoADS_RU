@@ -50367,7 +50367,7 @@ bing.com##a[href="http://go.microsoft.com/fwlink/?LinkID=286759"]
 ! Super Black List
 ||direct.yandex.ru
 ||yandex.ru/adv/
-||mail.ru
+! ||mail.ru
 ||runtime.strm.yandex.ru
 ||vk.com/js/api^
 ||ya.ru/js^
